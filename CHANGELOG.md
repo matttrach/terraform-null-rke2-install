@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/matttrach/terraform-null-rke2-install/compare/v1.2.0...v1.2.1) (2024-07-23)
+
+
+### Bug Fixes
+
+* allow version 6 addresses ([#153](https://github.com/matttrach/terraform-null-rke2-install/issues/153)) ([061e255](https://github.com/matttrach/terraform-null-rke2-install/commit/061e255e57588ff098fe124875167a9d52bfc6ac))
+* increase timeout ([#155](https://github.com/matttrach/terraform-null-rke2-install/issues/155)) ([5d217a2](https://github.com/matttrach/terraform-null-rke2-install/commit/5d217a2beb202e5c8ac8cfae60c63d2a7c9ac42e))
+
 ## [1.2.0](https://github.com/rancher/terraform-null-rke2-install/compare/v1.1.6...v1.2.0) (2024-07-02)
 
 
