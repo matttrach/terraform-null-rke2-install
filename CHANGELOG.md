@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.3.4](https://github.com/matttrach/terraform-null-rke2-install/compare/v1.3.3...v1.3.4) (2026-06-26)
+
+
+### Bug Fixes
+
+* add aws credentials back to release ([#184](https://github.com/matttrach/terraform-null-rke2-install/issues/184)) ([0e21e58](https://github.com/matttrach/terraform-null-rke2-install/commit/0e21e587d76c1e85ad4a20fba8b042e1964a1cb0))
+* only run tests on release PR, not release ([#185](https://github.com/matttrach/terraform-null-rke2-install/issues/185)) ([62cb7d9](https://github.com/matttrach/terraform-null-rke2-install/commit/62cb7d9a07fe84b83d0f51039ead0c5c682b4810))
+* only run tests on release PR, not release ([#185](https://github.com/matttrach/terraform-null-rke2-install/issues/185)) ([62cb7d9](https://github.com/matttrach/terraform-null-rke2-install/commit/62cb7d9a07fe84b83d0f51039ead0c5c682b4810))
+* update test suite, refactor workflows, and add agentic framework ([#182](https://github.com/matttrach/terraform-null-rke2-install/issues/182)) ([2413dd5](https://github.com/matttrach/terraform-null-rke2-install/commit/2413dd5e48cd622bebaa06b31bdbaf47771d07f4))
+
 ## [1.3.3](https://github.com/rancher/terraform-null-rke2-install/compare/v1.3.2...v1.3.3) (2026-04-21)
 
 
